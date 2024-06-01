@@ -12,7 +12,7 @@ I'm a passionate MLOps/Backend engineer who loves diving into new languages and 
 - 🌍 Traveling the world
 
 ## Let's Connect
-- [LinkedIn](your-linkedin-url)
+- [LinkedIn](https://www.linkedin.com/in/hoongeun-cho-55259ba7/)
 
 ## Tech Stack
 - **Languages**: Go, Python, C++, TypeScript, Scala, Rust
