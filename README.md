@@ -1,15 +1,18 @@
 # Hey there! I'm Hoongeun 👋
 
 ## About Me
-I'm a passionate MLOps/Backend engineer who loves diving into new languages and tech. Current obsessions? AI and compilers for NPUs, and container tech with special hardware resources. Rust and WASM are my jam!
+I'm a passionate MLOps/Backend engineer who loves diving into new languages and tech. 
+Current obsessions? 
+AI and compilers for NPUs, and hardware accelerated container tech.
+Rust and WASM are my jam! 🍯
 
 ## What I Do
 - **MLOps/Backend**: Crafting efficient, scalable systems.
 - **NPU Compiler & Containers**: Exploring cutting-edge tech.
 
 ## Hobbies
-- 🛠 Building custom keyboards
-- 🌍 Traveling the world
+- ⌨️ Building custom keyboards
+- ✈️ Traveling the world
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/hoongeun-cho-55259ba7/)
