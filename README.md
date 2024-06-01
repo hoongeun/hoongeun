@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there! I'm Hoongeun 👋
 
-<!--
-**hoongeun/hoongeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate MLOps/Backend engineer who loves diving into new languages and tech. Current obsessions? AI and compilers for NPUs, and container tech with special hardware resources. Rust and WASM are my jam!
 
-Here are some ideas to get you started:
+## What I Do
+- **MLOps/Backend**: Crafting efficient, scalable systems.
+- **NPU Compiler & Containers**: Exploring cutting-edge tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies
+- 🛠 Building custom keyboards
+- 🌍 Traveling the world
+
+## Let's Connect
+- [LinkedIn](your-linkedin-url)
+
+## Tech Stack
+- **Languages**: Go, Python, C++, TypeScript, Scala, Rust
+- **Frontend**: React, Vue3, MFC
+- **Data**: PySpark, Apache Flink
+- **Infra**: Kubernetes, AWS, Terraform, Helm
+- **DB**: MySQL
+- **Knowledge**: SSH, FTP, X11, Compilers, Linux Kernel, Hardware, Device Drivers, AI (noob)
