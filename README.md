@@ -1,10 +1,9 @@
 # Hey there! I'm Hoongeun 👋
 
 ## About Me
-I'm a passionate MLOps/Backend engineer who loves diving into new languages and tech. 
-Current obsessions? 
+I'm a passionate MLOps/Backend engineer who loves diving into new languages and tech. \
+Current obsessions? \
 AI and compilers for NPUs, and hardware accelerated container tech.
-Rust and WASM are my jam! 🍯
 
 ## What I Do
 - **MLOps/Backend**: Crafting efficient, scalable systems.
