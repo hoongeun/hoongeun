@@ -2,16 +2,19 @@
 
 ## About Me
 I'm a passionate MLOps/Backend engineer who loves diving into new languages and tech. \
-Current obsessions? \
-AI and compilers for NPUs, and hardware accelerated container tech.
+I am currently deeply focused on AI and compilers for NPUs, as well as hardware-accelerated container technologies.
 
 ## What I Do
-- **MLOps/Backend**: Crafting efficient, scalable systems.
-- **NPU Compiler & Containers**: Exploring cutting-edge tech.
+### In my Work
+- Backend Engineering
+- MLOps/DevOps
+- Data Engineering
+- Infra Engineeing
+- Frontend Engineering
 
-## Hobbies
-- ⌨️ Building custom keyboards
-- ✈️ Traveling the world
+### Hobby(Just for Fun)
+- **NPU Compiler**
+- **Hardware Accelerated Container**
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/hoongeun-cho-55259ba7/)
